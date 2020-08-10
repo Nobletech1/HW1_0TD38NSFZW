@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.form-div{
+    background-color: lemonchiffon;
+    height: 15cm;
+    width: 20cm;
+    margin-left: 10cm;
+    margin-top: 0.1cm;
+    box-shadow: lightcoral;
+
+}
+.form-class{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    font-size: large;
+    padding-top: 1cm;
+}
+button{
+    height: 1cm;
+    background-color: green;
+    color: white;
+    width: 3cm;
+    font-family: Roboto;
+    font-size: large;
+}
+#msg{
+    height: 5cm;
+}
+input{
+    height: 0.5cm;
+}
+select{
+    height: 0.6cm;
+}
